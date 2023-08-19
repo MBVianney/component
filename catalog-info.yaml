@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Api
+metadata:
+  name: test
+  description: An example deployment of a Backstage application.
+  annotations:
+    github.com: backstage/test
+spec:
+  type: api
+  owner: backstage/maintainers
+  lifecycle: experimental
