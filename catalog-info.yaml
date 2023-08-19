@@ -5,6 +5,10 @@ metadata:
   description: An example deployment of a Backstage application.
   annotations:
     github.com/project-slug: backstage/demo
+  tags:
+    - recommended
+    - laposte
+    - webapi
 spec:
   type: api
   owner: backstage/maintainers
