@@ -11,5 +11,5 @@ metadata:
     - webapi
 spec:
   type: api
-  owner: backstage/maintainers
+  owner: owner: user:guest
   lifecycle: experimental
