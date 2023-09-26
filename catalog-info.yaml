@@ -11,5 +11,5 @@ metadata:
     - webapi
 spec:
   type: api
-  owner: owner: user:guest
+  owner: user:guest
   lifecycle: experimental
